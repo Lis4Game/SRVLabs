@@ -1,0 +1,6 @@
+﻿  1.1.cpp
+C:\Users\LiS\source\repos\SRVLab1\SRVLab1\1.1.cpp(7,25): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  1.2.cpp
+  Создание кода...
+1.2.obj : error LNK2005: main уже определен в 1.1.obj
+C:\Users\LiS\source\repos\SRVLab1\x64\Debug\SRVLab1.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более

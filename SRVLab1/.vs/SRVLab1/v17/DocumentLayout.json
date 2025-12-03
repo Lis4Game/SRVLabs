@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LiS\\Documents\\SRVLabs\\SRVLab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE89D16-2B3F-4DC2-9B2D-118A185CE953}|SRVLab1\\SRVLab1.vcxproj|C:\\Users\\LiS\\Documents\\SRVLabs\\SRVLab1\\SRVLab1\\1.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DE89D16-2B3F-4DC2-9B2D-118A185CE953}|SRVLab1\\SRVLab1.vcxproj|solutionrelative:SRVLab1\\1.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1.1.cpp",
+              "DocumentMoniker": "C:\\Users\\LiS\\Documents\\SRVLabs\\SRVLab1\\SRVLab1\\1.1.cpp",
+              "RelativeDocumentMoniker": "SRVLab1\\1.1.cpp",
+              "ToolTip": "C:\\Users\\LiS\\Documents\\SRVLabs\\SRVLab1\\SRVLab1\\1.1.cpp",
+              "RelativeToolTip": "SRVLab1\\1.1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-03T14:54:54.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
